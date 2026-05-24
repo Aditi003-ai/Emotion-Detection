@@ -18,8 +18,11 @@ This project demonstrates the practical implementation of Artificial Intelligenc
 
 ## Team Members
 Aditi Verma
+
 Jayanshi Ratan Sinha
+
 Anchal Rani
+
 Yash Chauhan
 
 ## Features
